@@ -1,0 +1,3 @@
+#### SECTOR-BOOT (WIP)
+Salva el mundo eliminando a los virus de un sistema infectado.
+###### [❌Prototipo (2025)](#)

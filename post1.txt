@@ -1,0 +1,12 @@
+###### 02 de abril de 2025
+
+## Primeros pasos en EasyFPSEditor
+En las últimas semanas estuve explorando un poco EasyFPSEditor, un motor de videojuegos
+estilo boomer-shooter, a raiz de un TikTok que subí sobre [3 motores de videojuegos poco conocidos](https://www.tiktok.com/@kevynrdz/video/7481614818445757701).
+A primera vista el motor parece ser bastante sencillo de usar, sobre todo porque ya tiene incorporado todas las funciones como para hacer un juego estilo FPS.
+La UI es accesible, aunque está en inglés, con lo cual requiere un poco de esfuerzo para usuarios no tan familiarizados con este idioma.
+La forma en que se importan los recursos como sprites, sonidos y demás elementos es bastante simple. Cada apartado tiene un menú con los correspondientes elementos.
+
+![Imagen del post](img/p2-img2.gif)
+
+Proximamente más novedades!
